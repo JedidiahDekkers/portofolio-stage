@@ -385,3 +385,13 @@ footer p {
     display: none;
   }
 }
+
+/* ----------------------------- */
+/* 🎴 SLIMME FIX VOOR VISITEKAARTJES */
+/* ----------------------------- */
+.project-card img.visitekaart-img {
+  height: 380px !important;
+  object-fit: cover !important;
+  object-position: center bottom !important;
+  background-color: #120c1f;
+}
