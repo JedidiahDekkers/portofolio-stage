@@ -385,12 +385,11 @@ footer p {
   }
 }
 
-/* ----------------------------- */
 /* 🎴 FIX VOOR VISITEKAARTJES & DRUKWERK */
-/* ----------------------------- */
 .project-card img.contain-img {
-  height: auto;
-  max-height: 450px;
+  width: 100%;
+  height: 250px;
   object-fit: contain;
   background-color: #120c1f;
+  display: block;
 }
