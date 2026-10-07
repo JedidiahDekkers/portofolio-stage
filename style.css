@@ -1,4 +1,3 @@
-```css
 /* ----------------------------- */
 /* 🌐 ALGEMENE STYLING */
 /* ----------------------------- */
@@ -386,4 +385,12 @@ footer p {
   }
 }
 
-```
+/* ----------------------------- */
+/* 🎴 FIX VOOR VISITEKAARTJES & DRUKWERK */
+/* ----------------------------- */
+.project-card img.contain-img {
+  height: auto;
+  max-height: 450px;
+  object-fit: contain;
+  background-color: #120c1f;
+}
