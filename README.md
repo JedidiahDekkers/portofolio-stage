@@ -2,7 +2,7 @@
 
 Welkom op de portfolio repository voor mijn stageaanvraag (Grafisch Lyceum Utrecht). 
 
-Bekijk de live portfolio website hier: [https://jedidiahdekkers.github.io/portofolio-stage/](https://jedidiahdekkers.github.io/portofolio-stage/)
+Bekijk de live portfolio website hier: https://jedidiahdekkers.github.io/portofolio-stage/
 
 ---
 
