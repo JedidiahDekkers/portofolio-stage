@@ -213,7 +213,8 @@ nav {
 .project-card img {
   width: 100%;
   height: 250px;
-  object-fit: cover;
+  object-fit: contain;
+  background: #120c1f;
   display: block;
 }
 
@@ -383,13 +384,4 @@ footer p {
   .hamburger {
     display: none;
   }
-}
-
-/* 🎴 FIX VOOR VISITEKAARTJES & DRUKWERK */
-.project-card img.contain-img {
-  width: 100%;
-  height: 250px;
-  object-fit: contain;
-  background-color: #120c1f;
-  display: block;
 }
